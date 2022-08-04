@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@datastructures-js/linked-list": "^5.2.1",
+    "@datastructures-js/priority-queue": "^6.0.0",
+    "lodash": "^4.17.21"
+  }
+}
